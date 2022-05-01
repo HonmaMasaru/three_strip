@@ -2,7 +2,7 @@
 テクニカラー 3ストリップ画像に変換
 
 ## 元ネタ
-https://github.com/stunpix/technicolor/blob/master/src/2strip.cs
+[technicolor/2strip.cs at master · stunpix/technicolor](https://github.com/stunpix/technicolor/blob/master/src/2strip.cs)
 
 ## サンプル
 
